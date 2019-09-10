@@ -30,4 +30,5 @@ data=np.array(dataSet,dtype={'names':['技能','态度','分类结果'],'formats
 print(data)
 print(data['技能'])
 
+# zhushi
 
